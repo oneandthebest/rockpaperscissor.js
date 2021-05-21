@@ -1,2 +1,3 @@
+# oneandthebest-rock-paper-scissor.js
 # rockpaperscissor.js
-rockpaperscissor in vanilaa js
+# rockpaperscissor.js
